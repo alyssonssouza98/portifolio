@@ -4853,13 +4853,13 @@ p {
   background-size: cover;
   background-position: center;
   background-attachment: fixed; }
-  @media (min-resolution: 192dpi) {
+  @media (min-resolution: 200dpi) {
     .header {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/bg/header-bg-md.jpg"); } }
-  @media only screen and (min-width: 100em) {
+  @media only screen and (min-width: 110em) {
     .header {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/bg/header-bg-md.jpg"); } }
-  @media only screen and (min-width: 120em) {
+  @media only screen and (min-width: 150em) {
     .header {
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/bg/header-bg-lg.jpg"); } }
   .header__content {
